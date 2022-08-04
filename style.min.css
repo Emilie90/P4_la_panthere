@@ -498,7 +498,7 @@ h2 {
     position: relative;
   }
   .bloc {
-    padding: env(safe-area-inset);
+    padding: auto;
   }
 }
 @media (max-width: 400px) {
